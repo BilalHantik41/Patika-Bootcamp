@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pratik Değişkenler ile Uygulama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5e7969dc3b7a30bb75aca1617f5a0ab76e4733e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9fe273d2f38132ad47c61f3f551893527fec15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pratik Değişkenler ile Uygulama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pratik Değişkenler ile Uygulama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

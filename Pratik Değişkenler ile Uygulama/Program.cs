@@ -9,7 +9,7 @@ namespace Degiskenler
             
             Console.WriteLine("Lütfen aşağidaki bilgileri giriniz: ");
             Console.WriteLine("T.C Kimlik Numaranizi Giriniz: ");
-            int TC_Kimlik_Numarasi= Convert.ToInt32(Console.ReadLine());
+            long TC_Kimlik_Numarasi= Convert.ToInt64(Console.ReadLine()); // Int32 sınırlarını aşabilecek değerler için long tipi tercih edildi.
 
             Console.WriteLine("Adinizi Giriniz: ");
             string ad = Console.ReadLine();
@@ -17,8 +17,8 @@ namespace Degiskenler
             Console.WriteLine("Soyadinizi Giriniz: ");
             string Soyad = Console.ReadLine();
 
-            Console.WriteLine("Telefon Numaranizi Giriniz: ");
-            int Telefon = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Telefon Numaranizi Giriniz: "); // Int32 sınırlarını aşabilecek değerler için long tipi tercih edildi.
+            long Telefon = Convert.ToInt64(Console.ReadLine());
 
             Console.WriteLine("Yaşinizi Giriniz: ");
             int yas = Convert.ToInt32(Console.ReadLine());
