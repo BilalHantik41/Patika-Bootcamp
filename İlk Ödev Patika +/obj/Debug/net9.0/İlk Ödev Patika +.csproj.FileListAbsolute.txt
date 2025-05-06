@@ -1,0 +1,14 @@
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\bin\Debug\net9.0\İlk Ödev Patika +.exe
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\bin\Debug\net9.0\İlk Ödev Patika +.deps.json
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\bin\Debug\net9.0\İlk Ödev Patika +.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\bin\Debug\net9.0\İlk Ödev Patika +.dll
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\bin\Debug\net9.0\İlk Ödev Patika +.pdb
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.dll
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\refint\İlk Ödev Patika +.dll
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.pdb
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\İlk Ödev Patika +.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\İlk Ödev Patika +\obj\Debug\net9.0\ref\İlk Ödev Patika +.dll
