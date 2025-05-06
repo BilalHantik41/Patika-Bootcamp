@@ -37,8 +37,9 @@ namespace Degiskenler
             Console.WriteLine("İlk aldiğiniz ürün fiyati: " + ürün);
             Console.WriteLine("İkinci aldiğiniz ürün fiyati: " +ürün2);
 
-
-
+            Console.WriteLine(TC_Kimlik_Numarasi +" "+ "Kimlik Numarali " + ad +" "+ Soyad + "için kayit işlemi tamamlanmiştir.");
+            Console.WriteLine("Toplam "+ (ürün+ürün2)+ "TL harcama karşiliğinde %10 ek indirim kazanilmiştir.");
+            Console.WriteLine(Telefon +" "+ "Numarasina üyelik işlemleriyle ilgili bilgilendirme gönderilmiştir.");
         }
     }
 }
