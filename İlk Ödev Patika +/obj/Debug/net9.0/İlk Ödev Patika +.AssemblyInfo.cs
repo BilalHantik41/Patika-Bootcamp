@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İlk Ödev Patika +")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33cb9c2f8471b6ea5d1791916652b0309e6810d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("İlk Ödev Patika +")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İlk Ödev Patika +")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

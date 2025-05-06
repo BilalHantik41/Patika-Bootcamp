@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\İlk Ödev Patika +\\İlk Ödev Patika +.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\Patika-Bootcamp\\İlk Ödev Patika +\\İlk Ödev Patika +.csproj",
       "projectName": "İlk Ödev Patika +",
-      "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\İlk Ödev Patika +\\İlk Ödev Patika +.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\Patika-Bootcamp\\İlk Ödev Patika +\\İlk Ödev Patika +.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\İlk Ödev Patika +\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\Patika-Bootcamp\\İlk Ödev Patika +\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
