@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\bin\Debug\net9.0\Pratik Değişkenler ile Uygulama.exe
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\bin\Debug\net9.0\Pratik Değişkenler ile Uygulama.deps.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\bin\Debug\net9.0\Pratik Değişkenler ile Uygulama.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\bin\Debug\net9.0\Pratik Değişkenler ile Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\bin\Debug\net9.0\Pratik Değişkenler ile Uygulama.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\refint\Pratik Değişkenler ile Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\Pratik Değişkenler ile Uygulama.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\Pratik Değişkenler ile Uygulama\obj\Debug\net9.0\ref\Pratik Değişkenler ile Uygulama.dll

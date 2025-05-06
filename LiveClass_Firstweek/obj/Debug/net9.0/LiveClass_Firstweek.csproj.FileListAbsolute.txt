@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\bin\Debug\net9.0\LiveClass_Firstweek.exe
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\bin\Debug\net9.0\LiveClass_Firstweek.deps.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\bin\Debug\net9.0\LiveClass_Firstweek.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\bin\Debug\net9.0\LiveClass_Firstweek.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\bin\Debug\net9.0\LiveClass_Firstweek.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\refint\LiveClass_Firstweek.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\LiveClass_Firstweek.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\LiveClass_Firstweek\obj\Debug\net9.0\ref\LiveClass_Firstweek.dll
