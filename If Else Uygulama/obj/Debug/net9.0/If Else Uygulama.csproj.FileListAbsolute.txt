@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\bin\Debug\net9.0\If Else Uygulama.exe
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\bin\Debug\net9.0\If Else Uygulama.deps.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\bin\Debug\net9.0\If Else Uygulama.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\bin\Debug\net9.0\If Else Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\bin\Debug\net9.0\If Else Uygulama.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\refint\If Else Uygulama.dll
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.pdb
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\If Else Uygulama.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Patika-Bootcamp\If Else Uygulama\obj\Debug\net9.0\ref\If Else Uygulama.dll
